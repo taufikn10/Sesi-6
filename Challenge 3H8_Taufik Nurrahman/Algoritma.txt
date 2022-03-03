@@ -1,0 +1,11 @@
+Algoritma Luas_Keliling_Lingkaran
+
+1. Mulai
+2. Input nilai jari -  jari lingkaran (r)
+3. Menetapkan nilai phi(π) = 3.14
+4. Pilihan rumus luas lingkaran atau Keliling lingkaran 
+5. Jika memilih rumus luas lingkaran hitung luas = π x r x r
+6. Tampilkan luas lingkaran
+7. Jika memilih rumus keliling lingkaran hitung keliling = 2 x π x r
+8. Tampilkan keliling lingkaran
+9. Selesai

@@ -1,0 +1,16 @@
+Pseucode:
+
+SET "phi(π)" with value 3,14
+
+STORE "Luas" without any value
+STORE "Keliling" without any value
+
+INPUT any number to the "jari-jari(r)"
+
+DO CALCULATE "π" MULTIPLY "r" MULTIPLY "r"
+SET "Luas" with calculation result
+DO CALCULATE 2 MULTIPLY "π" MULTIPLY "r"
+SET "Keliling" with calculation result
+
+DISPLAY "Luas"
+DISPLAY "Keliling"
