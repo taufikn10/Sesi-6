@@ -16,6 +16,7 @@ console.log("3. Menghitung Luas & Keliling");
 console.log("=======================================================");
 let pil = prompt("Masukkan pilihan : ");
 console.log("========================");
+// output
 switch (pil) {
   case "1":
     console.log("Menghitung Luas Lingkaran");
