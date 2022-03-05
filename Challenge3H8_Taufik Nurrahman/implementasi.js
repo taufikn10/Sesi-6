@@ -31,7 +31,7 @@ switch (pil) {
     console.log("Keliling Lingkaran: " + keliling.toFixed(2));
     break;
   case "3":
-    console.log("Menghitung Keliling Lingkaran");
+    console.log("Menghitung Luas dan Keliling Lingkaran");
     let r3 = prompt("Jari jari : ");
     luas = phi * Math.pow(r3, 2);
     keliling = 2 * phi * r3;
